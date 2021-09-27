@@ -17,3 +17,4 @@ SELECT * FROM fornecedores;
 INSERT INTO Produtos (nomeProduto, valorProduto, quantidadeProduto, setor) VALUES ('Leite integral', '3', '100')
 
 INSERT INTO Produtos (nomeProduto, valorProduto, quantidadeProduto) values ('Leite integral', 4, 100);
+
